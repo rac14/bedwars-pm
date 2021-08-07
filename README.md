@@ -1,6 +1,8 @@
-# bedwars-pm
-A BedWars plugin for PocketMine-MP!
-# 50 Star to start the project
+# bedwars-PM
+
+# A BedWars plugin for PocketMine-MP!
+
+# 50 Star and i will start project
 
 __(Indonesia)__
 
