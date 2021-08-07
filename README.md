@@ -1,4 +1,4 @@
-# bedwars-PM
+# BedWars-PM
 
 # A BedWars plugin for PocketMine-MP!
 
